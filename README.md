@@ -1,4 +1,4 @@
-mdkir /mnt/cdrom
+mkdir /mnt/cdrom
 
 mount /dev/cdrom /mnt/cdrom
 
